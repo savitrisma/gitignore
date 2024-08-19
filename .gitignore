@@ -1,0 +1,8 @@
+config.txt 
+# tidak menyimpan file config.txt
+
+data/
+# tidak menyimpan semua file yg berada di dalam folder data
+
+*.exe
+# tidak menyimpan semua file yang formatnya exe
